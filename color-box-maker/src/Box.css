@@ -1,0 +1,13 @@
+.box {
+    margin: 30px;
+    position: relative;
+    align-items: center;
+    display: inline-flex;
+
+}
+
+.btn {
+    position: absolute;
+    right:-25px;
+    bottom:0;
+}

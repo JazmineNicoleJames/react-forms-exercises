@@ -1,0 +1,21 @@
+.NewFormBox {
+    width: 100%;
+
+}
+
+button {
+    border-radius: 5px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif; 
+
+}
+
+input {
+    max-width: 33%;
+    align-content: center;
+    margin-right: 10px;
+    border-radius: 5px;
+}
+
+label {
+    margin: 5px;
+}
